@@ -1,0 +1,97 @@
+{
+    "name": "Prosperent",
+    "description": "Prosperent helps bloggers, forums, and apps promote and recommend products from top retailers and earn commissions from purchases.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/904-prosperent.jpg",
+    "tags": [
+        "affiliates",
+        "commerce",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/prosperent\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Prosperent",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/904-prosperent.jpg",
+            "humanURL": "http:\/\/prosperent.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/prosperent-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.prosperent.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/community.prosperent.com\/content.php?1-Prosperent-News"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/community.prosperent.com\/ajax.php?do=rss&type=newcontent&contenttypeid=17&sectionid=1&days=120&count=10"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/prosperent"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/prosperent"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/prosperent.com\/tools\/api"
+        },
+        {
+            "type": "Email",
+            "url": "press@prosperent.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@prosperent.com"
+        },
+        {
+            "type": "Email",
+            "url": "cs@prosperent.com"
+        },
+        {
+            "type": "Email",
+            "url": "mike.christensen@prosperent.com"
+        },
+        {
+            "type": "Email",
+            "url": "merchants@prosperent.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@prosperent.com"
+        },
+        {
+            "type": "Email",
+            "url": "tcpa-support@prosperent.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/prosperent"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/prosperent"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/prosperent.com"
+        }
+    ]
+}
